@@ -1,0 +1,2 @@
+# VideoCapsuleEndoscopy
+Monitoring the gastrointestinal (GI) tract at real time and in a safe and patient-friendly manner is important for the diagnosis and therapy of many GI diseases. This review paper surveys the latest progress in video capsule endoscopy with a focus on engineering technologies for remote patient monitoring, micro-robotics, physiological sensing, GI nerve stimulation, fluid sampling and drug delivery, panoramic imaging with adaptive frame rates, and rapid reading software. 
